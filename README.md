@@ -12,4 +12,4 @@ By implementing the Scout Rule, I cleaned up the syntax and semantics for easier
 
 Link to deployed application: 
 
-https://bobtarino.github.io/coderefactor/
+https://bobtarino.github.io/coderefactor
